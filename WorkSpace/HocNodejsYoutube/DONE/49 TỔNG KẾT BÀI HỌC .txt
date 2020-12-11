@@ -1,0 +1,10 @@
+"lang=vi"
+
+MỘT MÁY CHỦ JAVASCRIPT CẦN LÀM ĐƯỢC NHỮNG ĐIỀU CƠ BẢN SAU:
+
+1. TỔ chức tốt các đoạn mã nguồn thành các phần tử  có thể tái sử dụng
+2. Khả năng xử lý file 
+3. Kết nối và truy cập Database 
+4. Giao tiếp và truy cập internet
+5. Tiếp nhận Request và Response đáp ứng trả về kết quả HTTP, FTP, SSH, AMQP
+6. Có một cách xử lý các công việc cần nhiều thời Gian 

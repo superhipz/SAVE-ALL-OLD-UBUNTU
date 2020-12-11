@@ -1,0 +1,36 @@
+{
+    "firstName": "Nguyen",
+    "lastName": "Phong",
+    "address":{
+        "street": "so 4 \"JSON\"Chinh Kinh",
+        "city": "Ha Noi",
+        "country": "Viet Nam"
+    }
+},
+
+
+{
+
+    "sv001":{
+        "mon hoc 1": "Toan",
+        "mon hoc 2": "Vat Ly"
+    },
+    "sv002":{
+        "mon hoc 1": "Toan",
+        "mon hoc 2": "Vat Ly"
+    }
+}
+[
+    {
+    "name":"Nguyen Thai Phong",
+    "age": "22"
+},
+{
+    "name": "Nguyen Thai Phuc",
+    "age": "14"
+},
+{
+    "name": "Nguyen Minh Duc",
+    "age": "14"
+}
+]

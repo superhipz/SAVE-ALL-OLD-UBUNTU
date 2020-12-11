@@ -1,0 +1,5 @@
+1. Module và NPM
+-Module: là một thư viện tập hợp các hàm đã được viết sẵn, sử dụng module để đơn giản hóa việc viết code
+- Bao gồm Built-in Module ( Những module cơ bản được tích hợp sẵn trong Nodejs) và External Module ( Module do cộng đồng, bên thứ 3 tạo ra: https://www.npmjs.com/ )
+- Tự ta
+- npx kill-port 3000

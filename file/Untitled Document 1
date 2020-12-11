@@ -1,0 +1,6 @@
+1. SELECT: SELECT age,name,... FROM ......
+2. WHERE: SELECT age,name,... FROM ..... WHERE age > 10 AND(OR) name = 'JAME'
+3. ORDER: SELECT age,name,... FROM ..... ORDER BY age DESC (DESC giảm dần, ASC tăng dần )
+4. JOIN: SELECT age, name, height FROM people LEFT JOIN heights USING (name) 
+(https://quantrimang.com/13-cau-lenh-sql-quan-trong-programmer-nao-cung-can-biet-136595)
+5. 

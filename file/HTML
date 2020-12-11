@@ -1,0 +1,38 @@
+1. <!DOCTYPE html>  
+     <html>  
+       <head>  
+         <meta charset="utf-8">  
+         <title>Hello, world!</title>  
+       </head>  
+       <body>  
+         here is a body  
+       </body>  
+     </html>  
+
+2. <br> xuống dòng
+- <hr> gạch ngang page
+- <img src="link dẫn đến ảnh" alt="Chú thích ảnh" heigh="" width="" >
+- <b>  In đậm   *** <strong> In đậm nhấn mạnh vào từ được in 
+- <i>  in nghiêng  **** <em> In nghiên nhấn m
+- <sup> số mũ 
+- <sub> số õxi hóa trong Hóa học ( H2SO4)
+- <span> Nhóm các element liên quan đến nhau (Dùng để trình bày mạnh lạc hơn )
+- <h1> h2 h3 h4 h5 h6: H1 thường dùng làm tiêu đề chính cho 1 website, h2h3h4h5 siza chữ bé dần
+- <ul> Danh sách đc sắp xếp = ký tự ( ko theo thứ tự )
+- <ol> DS sắp xếp theo thứ tự
+- <dl> Dùng để định nghĩa 1 sự vật 
+	<dl>
+		<dt>	"SỰ VẬT CẦN GIẢI THÍCH" </dt>
+		<dd>	"GIẢI THÍCH" </dd>
+	</dl
+- <table> dùng để tạo bảng ( https://viettuts.vn/html/table-trong-html )
+- Nhóm các thẻ dùng để block https://hocwebchuan.com/tutorial/tut_html_layout.php
+- <a href="link cần dẫn đến" target="_blank" >   dùng <a /a> để thêm link, target blank để mở link trong tab mới, <img để mở
+	<img src="" alt="" />				link bằng cách nhấn vào ảnh
+  </a>
+  
+- <form> https://webvn.com/cac-the-trong-form-html/
+- <style> https://www.w3schools.com/html/html_styles.asp ( trang trí cho trang web thêm đẹp )
+- <script> chứa code javascript 
+
+
